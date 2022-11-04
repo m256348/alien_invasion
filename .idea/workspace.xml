@@ -5,11 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13ca3d35-232b-4d21-9212-b210cff3a6c3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/blue_sky.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alien.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bullet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keys_settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket_settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sideways_settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sideways_shooter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/alien_invasion.py" beforeDir="false" afterPath="$PROJECT_DIR$/alien_invasion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blue_sky.py" beforeDir="false" afterPath="$PROJECT_DIR$/blue_sky.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/08-Advanced Plotting(2).pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Outbound Annapolis Plotting Exercise.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Shinego -  Plotting Worksheet.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ship.py" beforeDir="false" afterPath="$PROJECT_DIR$/ship.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
